@@ -1,0 +1,12 @@
+{
+  "model": "EfficientNetB0_TL",
+  "dataset_version": "final_dataset_concreto (5000 imgs)",
+  "train_folder": 4000,
+  "val_split_from_train": 0.2,
+  "test_folder": 1000,
+  "accuracy": 0.998,
+  "precision": 0.998,
+  "recall": 0.998,
+  "f1": 0.998,
+  "auc": 0.99996
+}

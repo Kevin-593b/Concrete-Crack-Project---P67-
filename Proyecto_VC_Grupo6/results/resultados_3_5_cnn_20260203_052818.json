@@ -1,0 +1,5 @@
+{
+  "model": "EfficientNetB0_TL",
+  "accuracy": 0.998,
+  "f1": 0.998
+}
