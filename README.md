@@ -1,5 +1,18 @@
 # Proyecto Final – Visión por Computador (Grupo 6)
+##  Integrantes (Grupo 6)
+- Robinson Agual  
+- Bryan Barrera  
+- Kevin Bonilla  
+- Ricardo Maigua  
+- Xavier Rosillo  
+### Notas importantes
+- El proyecto fue desarrollado y ejecutado en Google Colab (CPU), por lo que el flujo se ejecuta por celdas.
+- Para reproducir resultados, se debe mantener la estructura del dataset:
+  - `/dataset/final_dataset_concreto/train/{Negative,Positive}`
+  - `/dataset/final_dataset_concreto/test/{Negative,Positive}`
+- Si cambias la ubicación en Drive, actualiza las rutas en las primeras celdas de cada sección (`PROJECT_ROOT`, `DATASET_DIR`).
 
+---
 **Nombre del Proyecto:** Diseño, implementación y evaluación de un sistema de clasificación de imágenes mediante visión por computador clásica y aprendizaje profundo.
 
 ## 1. Descripción general del proyecto
@@ -153,9 +166,4 @@ Flujo recomendado:
 
 ---
 
-## 8. Integrantes (Grupo 6)
-- Robinson Agual  
-- Bryan Barrera  
-- Kevin Bonilla  
-- Ricardo Maigua  
-- Xavier Rosillo  
+
