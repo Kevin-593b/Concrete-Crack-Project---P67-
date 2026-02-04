@@ -165,5 +165,9 @@ Flujo recomendado:
 - **Predicciones CNN (si aplica):** `/results/cnn_y_true_*.npy`, `/results/cnn_y_pred_*.npy`, `/results/cnn_y_prob_*.npy`
 
 ---
+## Nota sobre archivos omitidos (tamaño del repositorio)
 
+Por limitaciones de tamaño en GitHub, **no se incluyó el dataset completo** (`/dataset`) ni algunos archivos generados de gran peso (por ejemplo, ciertas **características extraídas** en formato `.npz`, predicciones `.npy`, y/o algunos resultados intermedios). 
+
+El **dataset original** puede descargarse desde Kaggle (ver enlace en la sección *Dataset*), y los **resultados completos (tablas, matrices de confusión, curvas y métricas)** se encuentran documentados en el **informe final** del proyecto.
 
