@@ -171,3 +171,6 @@ Por limitaciones de tamaño en GitHub, **no se incluyó el dataset completo** (`
 
 El **dataset original** puede descargarse desde Kaggle (ver enlace en la sección *Dataset*), y los **resultados completos (tablas, matrices de confusión, curvas y métricas)** se encuentran documentados en el **informe final** del proyecto.
 
+
+> **Nota:** En este repositorio también se incluyen los archivos **Proyecto_Vision_Concreto_v3.ipynb** (notebook principal de Google Colab/Jupyter) y **Proyecto_Vision_Concreto_v3.html** (exportación del notebook), donde se encuentra el flujo completo ejecutado por celdas: análisis exploratorio, extracción de características, entrenamiento de clasificadores tradicionales, entrenamiento de la CNN y la comparación final de resultados.
+
